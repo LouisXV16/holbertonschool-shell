@@ -1,2 +1,2 @@
 #!/bin/bash
-chmad u+u+r hello
+chmad u+x,g+x,o+r hello
